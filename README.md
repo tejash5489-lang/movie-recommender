@@ -2,7 +2,7 @@
 
 A content-based movie recommender built with Streamlit. Pick a movie and get 5 similar titles with posters fetched from TMDB.
 
-**Live app:** _add the Streamlit Cloud URL here once deployed_
+**Live app:** https://movie-recommender-rqh7b2yry5vau3knmhbutu.streamlit.app/
 **Repo:** https://github.com/tejash5489-lang/movie-recommender
 
 ## How it works
